@@ -1,4 +1,4 @@
 # DO-NOT-LOOK-HERE-
 you cant look here
 
-[id]: https://octodex.github.com/images/dojocat.jpg  "The Dojocat"
+![Stormtroopocat](https://octodex.github.com/images/stormtroopocat.jpg "The Stormtroopocat")
