@@ -19,3 +19,10 @@ header {
     font-weight: 500;
     font-size: 36px;
 }
+
+
+
+.main_card {
+    width: 100%;
+    display: flex;
+}
