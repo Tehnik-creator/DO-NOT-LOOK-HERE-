@@ -18,6 +18,7 @@ header {
 .header__logo {
     font-weight: 500;
     font-size: 36px;
+    margin-left: 30px;
 }
 
 
@@ -80,4 +81,14 @@ header {
 
 .main_h1 {
     margin-top: 50px;
+}
+
+.footer {
+    display: flex;
+    bottom: 0;
+    position: absolute;
+    width: 100%;
+    justify-content: space-around;
+    padding: 30px;
+    background-color: #E4EAEB;
 }
